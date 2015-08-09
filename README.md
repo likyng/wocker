@@ -4,7 +4,8 @@ This repository provides a template Vagrantfile to create a Docker-based rapid d
 
 ## Fork
 
-This fork changes the mounting method of the data folder from NFS to SSHFS
+This fork changes the mounting method of the data folder from NFS to SSHFS.
+
 Note for archlinux users (perhaps also other distros..): you neet the deprecated net-tools for the private network to work. 
 
 ## Version
